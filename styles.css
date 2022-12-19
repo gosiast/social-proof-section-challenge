@@ -17,6 +17,10 @@ h1 {
     color: hsl(300, 43%, 22%);
     font-weight: 700;
 }
+
+p {
+color:hsl(303, 10%, 53%);
+}
 .review-one , .review-two , .review-three{
     background-color: hsl(300, 43%, 22%);
     color: hsl(0, 0%, 100%);
