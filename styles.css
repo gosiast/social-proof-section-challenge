@@ -45,9 +45,11 @@ color:hsl(303, 10%, 53%);
     margin: 5px;
     padding: 5px;
     border-radius: 10px;
+    text-align: center;
 }
 .review-author {
     color: white;
+    margin-bottom: 0;
 }
 
 .verified-buyer {
