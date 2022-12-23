@@ -39,14 +39,35 @@ text-align: center;
 p {
 color:hsl(303, 10%, 53%);
 }
+
+.reviews {
+display: flex;
+height: 12rem;
+gap: 1rem;
+margin-top: 60px;
+}
+
 .review-one , .review-two , .review-three{
     background-color: hsl(300, 43%, 22%);
     color: hsl(0, 0%, 100%);
-    margin: 5px;
-    padding: 5px;
+    margin: 10px;
+    padding: 10px;
     border-radius: 10px;
     text-align: center;
 }
+
+.review-one {
+  align-self: start;
+}
+
+.review-two {
+    align-self: center;
+}
+
+.review-three {
+align-self: end;
+}
+
 .review-author {
     color: white;
     margin-bottom: 0;
