@@ -20,6 +20,7 @@ h1 {
     font-weight: 700;
     font-size: 60px;
     line-height: 1;
+    margin-right: 10px;
 }
 
 li {
@@ -38,6 +39,10 @@ text-align: center;
 
 p {
 color:hsl(303, 10%, 53%);
+}
+
+.star-reviews {
+display: flex;
 }
 
 .reviews {
