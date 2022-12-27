@@ -19,8 +19,8 @@ footer {
 h1 {
     color: hsl(300, 43%, 22%);
     font-weight: 700;
-    font-size: 60px;
-    line-height: 1;
+    font-size: 55px;
+    line-height: 0.8;
     margin-right: 10px;
 }
 
