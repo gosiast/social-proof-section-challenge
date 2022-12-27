@@ -44,12 +44,13 @@ color:hsl(303, 10%, 53%);
 
 .star-reviews {
     display: flex;
-        height: 12rem;
-        gap: 1rem;
+    height: 12rem;
+    gap: 1rem;
 }
 
 .start-reviews {
     align-self: start;
+    height: 5rem;
 }
 
 .stars-reports {
@@ -57,7 +58,7 @@ color:hsl(303, 10%, 53%);
 }
 
 .starts-besttech {
-    align-self: 🔚 ;
+    align-self: end;
 }
 
 img {
