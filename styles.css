@@ -60,6 +60,12 @@ color:hsl(303, 10%, 53%);
     align-self: 🔚 ;
 }
 
+img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
 .reviews {
 display: flex;
 height: 12rem;
@@ -71,7 +77,7 @@ margin-top: 60px;
     background-color: hsl(300, 43%, 22%);
     color: hsl(0, 0%, 100%);
     margin: 10px;
-    padding: 10px;
+    padding: 20px;
     border-radius: 10px;
     text-align: center;
 }
