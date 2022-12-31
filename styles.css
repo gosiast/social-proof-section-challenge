@@ -1,4 +1,3 @@
-
 body {
     font-size: 15px;
     font-family: League Spartan;
@@ -53,18 +52,6 @@ color:hsl(303, 10%, 53%);
 
 .stars-reviews {
     display: flex;
-}
-
-.stars-reviews {
-    align-self: start;
-}
-
-.stars-reports {
-    align-self: center;
-}
-
-.stars-besttech {
-    align-self: end;
 }
 
 img {
